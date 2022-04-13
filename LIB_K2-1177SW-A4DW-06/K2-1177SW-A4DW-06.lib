@@ -1,0 +1,29 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model K2-1177SW-A4DW-06
+#/2431524/40957/2.49/6/3/Switch
+DEF K2-1177SW-A4DW-06 S 0 30 Y Y 1 F N
+F0 "S" 1050 600 50 H V L CNN
+F1 "K2-1177SW-A4DW-06" 1050 500 50 H V L CNN
+F2 "K21177SWA4DW06" 1050 400 50 H I L CNN
+F3 "https://datasheet.lcsc.com/szlcsc/Korean-Hroparts-Elec-K2-1177SW-A4DW-06_C92582.pdf" 1050 300 50 H I L CNN
+F4 "SPST 50mA @ 12VDC Vertical Round Button SMD Tactile Switches RoHS" 1050 200 50 H I L CNN "Description"
+F5 "1.6" 1050 100 50 H I L CNN "Height"
+F6 "Korean Hroparts Elec" 1050 0 50 H I L CNN "Manufacturer_Name"
+F7 "K2-1177SW-A4DW-06" 1050 -100 50 H I L CNN "Manufacturer_Part_Number"
+F8 "" 1050 -200 50 H I L CNN "Mouser Part Number"
+F9 "" 1050 -300 50 H I L CNN "Mouser Price/Stock"
+F10 "" 1050 -400 50 H I L CNN "Arrow Part Number"
+F11 "" 1050 -500 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X COM_1 1 0 0 200 R 50 50 0 0 P
+X COM_2 2 0 -100 200 R 50 50 0 0 P
+X NO_1 3 1200 -100 200 L 50 50 0 0 P
+X NO_2 4 1200 0 200 L 50 50 0 0 P
+X MP1 MP1 600 -700 200 U 50 50 0 0 P
+X MP2 MP2 600 600 200 D 50 50 0 0 P
+P 5 0 1 6 200 400 1000 400 1000 -500 200 -500 200 400 N
+ENDDRAW
+ENDDEF
+#
+#End Library

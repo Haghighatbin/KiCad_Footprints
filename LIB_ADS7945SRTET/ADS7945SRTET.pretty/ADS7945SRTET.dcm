@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADS7945SRTET
+D 14-Bit, 2MSPS, Dual-Channel, Unipolar, Differential, u-Power SAR ADC
+K
+F http://www.ti.com/lit/gpn/ADS7945
+$ENDCMP
+#
+#End Doc Library

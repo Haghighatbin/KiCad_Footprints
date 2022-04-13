@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP REF2030AIDDCT
+D Low-Drift, Low-Power, Dual-Output VREF and VREF/2 Voltage Reference
+K
+F http://www.ti.com/lit/ds/symlink/ref2030.pdf
+$ENDCMP
+#
+#End Doc Library
